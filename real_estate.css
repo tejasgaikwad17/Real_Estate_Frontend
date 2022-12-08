@@ -1,0 +1,243 @@
+.body
+{
+    overflow-x: hidden;
+}
+.navbar
+{
+    background-color: #fde3ff;
+}
+.navbar-nav
+{
+    margin-left: auto;
+}
+.real
+{
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'M PLUS 1', sans-serif
+}
+/* .nav-item
+{
+    color: black;
+} */
+
+/* home-page */
+.back-image
+{
+    background-image: url(image/building.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 830px;
+}
+.head-line
+{
+    margin-top: 200px;
+    font-size: 70px;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.love
+{
+    color:red;
+   font-family: 'Pacifico', cursive;
+   font-size: 100px;
+   
+}
+
+/* property */
+a
+{
+  text-decoration: none;
+  color: red;
+}
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+.first
+{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.dash
+{
+    font-size: 100px;
+}
+.homekey
+{
+    position: relative;
+    background-image: url(image/homekey.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-weight: bolder;
+}
+.house
+{
+    position: relative;
+    background-image: url(image/house.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-weight: bolder;
+}
+.sofa
+{
+    position: relative;
+    background-image: url(image/sofa.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color:white;
+    font-weight: bolder;
+}
+.kitchen
+{
+    position: relative;
+    background-image: url(image/kitchen.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-weight: bolder;
+}
+
+/* residential */
+.back_effect
+{
+    background-image: url(image/back5.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+
+}
+.flats-apartments
+{
+    background-image: url(image/flats-apartments.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.builder-floor
+{
+    background-image: url(image/builder-floor.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.individual-house
+{
+    background-image: url(image/individual-house.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+
+}
+.residential-land
+{
+    background-image: url(image/residential-land.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.office
+{
+    background-image: url(image/office.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.shop
+{
+    background-image: url(image/shop.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.farm
+{
+    background-image: url(image/farm.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.hotel
+{
+    background-image: url(image/hotel.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
+/* Premium projects */
+.top
+{
+   background-color: #fde3ff;
+}
+
+/* services */
+
+.service_icon1
+{
+    color: #ad5948;
+}
+.service_icon2
+{
+    color: #1b63a6;
+}
+.service_icon3
+{
+    color: #802e7e;
+}
+.service_icon4
+{
+    color: #8e1901;
+}
